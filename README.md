@@ -1,14 +1,12 @@
-<img align="center" alt="Coding" width="400" src="assets/mire_painting.png">
+<p align="center">
+  <img alt="Coding" width="400" src="assets/mire_painting.png"/>
+</p>
 
-<p align="center">   I 💗 <a href="#"><img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" alt="GitHub Pages"></a> </p>
-
-- ------
-
-  ☠️ I'm just a **bioinformatician** and **data visualization freak**
+- ☠️ I'm just a **bioinformatician** and **data visualization freak**
 
 - 💔 Most of my repositories are **private**, which makes me sad
 
-- 🔞 Some of my projects or the people I work for heavily features adult content, look for <img src="https://img.shields.io/badge/18%2B-NSFW-red?style=for-the-badge" alt="NSFW Content" /> warnings!
+- 🔞 Some of my projects or the people I work for heavily features adult content, look for warnings!
 
 - 🌱 Most of my projects are **done on a whim** (or for friends)
 
@@ -22,7 +20,9 @@
 
   <p align="center">  Check out my website, <b><a href="https://mire.horse">mire.horse</a></b> </p>
 
-  ![Website](https://img.shields.io/website?up_message=online&down_message=offline&url=https%3A%2F%2Fyourwebsite.com)
+  <p align="center">
+    <img src="https://img.shields.io/website?up_message=online&down_message=offline&url=https%3A%2F%2Fyourwebsite.com"/>
+  </p>
 
   
 
