@@ -1,3 +1,9 @@
+<p align="center">  Check out my website, <b><a href="https://mire.horse">mire.horse</a></b> </p>
+
+<p align="center">
+  <img src="https://img.shields.io/website?up_message=online&down_message=offline&url=https%3A%2F%2Fyourwebsite.com"/>
+</p>
+
 <p align="center">
   <img alt="Coding" width="400" src="assets/mire_painting.png"/>
 </p>
@@ -15,14 +21,6 @@
 - 🙏 I openly invite you to **exploit my services** and **let me build you something**
 
 - 📺 **Static sites > all others**, I'm so serious
-
-  
-
-  <p align="center">  Check out my website, <b><a href="https://mire.horse">mire.horse</a></b> </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/website?up_message=online&down_message=offline&url=https%3A%2F%2Fyourwebsite.com"/>
-  </p>
 
   
 
